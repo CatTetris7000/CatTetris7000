@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CatTetris7000
+- 👋 Hi, I’m @CatTetris7000 I made @catos-project
 - 👀 I’m interested in coding, gaming, and animating.
 - 🌱 I’m currently learning how to code and animate.
 - 💞️ I work alone but you can help me if you would like!
