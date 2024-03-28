@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @CatTetris7000 I made @catos-project
+- 👋 Hi, I’m @CatTetris7000
 - 👀 I’m interested in coding, gaming, and animating.
 - 🌱 I’m currently learning how to code and animate.
 - 💞️ I work alone but you can help me if you would like!
-- 📫 You can email me if you want.
-- 😄 Pronouns: he, him, and his.
+- 📫 You reach me by email.
+- 😄 My pronouns: he, him, and his.
 - ⚡ Fun fact: I am working on my own operating system, It is called CatOS.
 
 <!---
